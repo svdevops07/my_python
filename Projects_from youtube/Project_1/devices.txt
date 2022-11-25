@@ -1,0 +1,14 @@
+Cisco 819 Router
+Cisco 822 Router
+Cisco 1020 Router
+Cisco 1059 Router
+Cisco 2888 Router
+Cisco 2960 Catalyst Switch
+Cisco 3060 Catalyst Switch
+Cisco 3650 Catalyst Switch
+Cisco 7700 Nexus Switch
+Cisco 1059 Router
+Cisco 2888 Router
+Cisco 3060 Catalyst Switch
+Cisco 3650 Catalyst Switch
+Cisco 7700 Nexus SwitchCisco 2960 SwitchCisco 2960 SwitchCisco 2960 SwitchCisco 2960 Switch
